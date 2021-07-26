@@ -1,0 +1,950 @@
+2021/06/30 21:40:21 [notice] 1#1: using the "epoll" event method
+2021/06/30 21:40:21 [notice] 1#1: nginx/1.21.0
+2021/06/30 21:40:21 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 21:40:21 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 21:40:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 21:40:21 [notice] 1#1: start worker processes
+2021/06/30 21:40:21 [notice] 1#1: start worker process 30
+2021/06/30 21:40:21 [notice] 1#1: start worker process 31
+2021/06/30 21:40:21 [notice] 1#1: start worker process 32
+2021/06/30 21:40:21 [notice] 1#1: start worker process 33
+2021/06/30 21:40:21 [notice] 1#1: start worker process 34
+2021/06/30 21:40:21 [notice] 1#1: start worker process 35
+2021/06/30 21:40:21 [notice] 1#1: start worker process 36
+2021/06/30 21:40:21 [notice] 1#1: start worker process 37
+2021/06/30 21:52:48 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 21:52:48 [notice] 30#30: gracefully shutting down
+2021/06/30 21:52:48 [notice] 31#31: gracefully shutting down
+2021/06/30 21:52:48 [notice] 32#32: gracefully shutting down
+2021/06/30 21:52:48 [notice] 32#32: exiting
+2021/06/30 21:52:48 [notice] 36#36: gracefully shutting down
+2021/06/30 21:52:48 [notice] 37#37: gracefully shutting down
+2021/06/30 21:52:48 [notice] 35#35: gracefully shutting down
+2021/06/30 21:52:48 [notice] 35#35: exiting
+2021/06/30 21:52:48 [notice] 34#34: gracefully shutting down
+2021/06/30 21:52:48 [notice] 34#34: exiting
+2021/06/30 21:52:48 [notice] 33#33: gracefully shutting down
+2021/06/30 21:52:48 [notice] 33#33: exiting
+2021/06/30 21:52:48 [notice] 30#30: exiting
+2021/06/30 21:52:48 [notice] 30#30: exit
+2021/06/30 21:52:48 [notice] 31#31: exiting
+2021/06/30 21:52:48 [notice] 32#32: exit
+2021/06/30 21:52:48 [notice] 36#36: exiting
+2021/06/30 21:52:48 [notice] 36#36: exit
+2021/06/30 21:52:48 [notice] 37#37: exiting
+2021/06/30 21:52:48 [notice] 37#37: exit
+2021/06/30 21:52:48 [notice] 35#35: exit
+2021/06/30 21:52:48 [notice] 34#34: exit
+2021/06/30 21:52:48 [notice] 33#33: exit
+2021/06/30 21:52:48 [notice] 31#31: exit
+2021/06/30 21:52:48 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/06/30 21:52:48 [notice] 1#1: worker process 30 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 21:52:48 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/06/30 21:52:48 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/06/30 21:52:48 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 21:52:48 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2021/06/30 21:52:48 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 21:52:48 [notice] 1#1: exit
+2021/06/30 22:00:48 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:00:48 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:00:48 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:00:48 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:00:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:00:48 [notice] 1#1: start worker processes
+2021/06/30 22:00:48 [notice] 1#1: start worker process 31
+2021/06/30 22:00:48 [notice] 1#1: start worker process 32
+2021/06/30 22:00:48 [notice] 1#1: start worker process 33
+2021/06/30 22:00:48 [notice] 1#1: start worker process 34
+2021/06/30 22:00:48 [notice] 1#1: start worker process 35
+2021/06/30 22:00:48 [notice] 1#1: start worker process 36
+2021/06/30 22:00:48 [notice] 1#1: start worker process 37
+2021/06/30 22:00:48 [notice] 1#1: start worker process 38
+2021/06/30 22:04:46 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:46 [error] 31#31: *2 open() "/code/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/06/30 22:04:49 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:50 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:50 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:50 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:50 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:51 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:51 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:51 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:52 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:52 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:53 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:53 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:53 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:54 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:54 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:04:55 [error] 31#31: *2 directory index of "/code/" is forbidden, client: 172.20.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/06/30 22:10:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:10:37 [notice] 31#31: gracefully shutting down
+2021/06/30 22:10:37 [notice] 38#38: gracefully shutting down
+2021/06/30 22:10:37 [notice] 36#36: gracefully shutting down
+2021/06/30 22:10:37 [notice] 36#36: exiting
+2021/06/30 22:10:37 [notice] 33#33: gracefully shutting down
+2021/06/30 22:10:37 [notice] 34#34: gracefully shutting down
+2021/06/30 22:10:37 [notice] 37#37: gracefully shutting down
+2021/06/30 22:10:37 [notice] 35#35: gracefully shutting down
+2021/06/30 22:10:37 [notice] 32#32: gracefully shutting down
+2021/06/30 22:10:37 [notice] 31#31: exiting
+2021/06/30 22:10:37 [notice] 38#38: exiting
+2021/06/30 22:10:37 [notice] 36#36: exit
+2021/06/30 22:10:37 [notice] 33#33: exiting
+2021/06/30 22:10:37 [notice] 34#34: exiting
+2021/06/30 22:10:37 [notice] 34#34: exit
+2021/06/30 22:10:37 [notice] 37#37: exiting
+2021/06/30 22:10:37 [notice] 35#35: exiting
+2021/06/30 22:10:37 [notice] 32#32: exiting
+2021/06/30 22:10:37 [notice] 31#31: exit
+2021/06/30 22:10:37 [notice] 38#38: exit
+2021/06/30 22:10:37 [notice] 33#33: exit
+2021/06/30 22:10:37 [notice] 37#37: exit
+2021/06/30 22:10:37 [notice] 35#35: exit
+2021/06/30 22:10:37 [notice] 32#32: exit
+2021/06/30 22:10:37 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/06/30 22:10:37 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 38 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:10:37 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2021/06/30 22:10:37 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/06/30 22:10:37 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:10:37 [notice] 1#1: exit
+2021/06/30 22:14:03 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:14:03 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:14:03 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:14:03 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:14:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:14:03 [notice] 1#1: start worker processes
+2021/06/30 22:14:03 [notice] 1#1: start worker process 31
+2021/06/30 22:14:03 [notice] 1#1: start worker process 32
+2021/06/30 22:14:03 [notice] 1#1: start worker process 33
+2021/06/30 22:14:03 [notice] 1#1: start worker process 34
+2021/06/30 22:14:03 [notice] 1#1: start worker process 35
+2021/06/30 22:14:03 [notice] 1#1: start worker process 36
+2021/06/30 22:14:03 [notice] 1#1: start worker process 37
+2021/06/30 22:14:03 [notice] 1#1: start worker process 38
+2021/06/30 22:26:06 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:26:06 [notice] 32#32: gracefully shutting down
+2021/06/30 22:26:06 [notice] 31#31: gracefully shutting down
+2021/06/30 22:26:06 [notice] 35#35: gracefully shutting down
+2021/06/30 22:26:06 [notice] 35#35: exiting
+2021/06/30 22:26:06 [notice] 37#37: gracefully shutting down
+2021/06/30 22:26:06 [notice] 33#33: gracefully shutting down
+2021/06/30 22:26:06 [notice] 36#36: gracefully shutting down
+2021/06/30 22:26:06 [notice] 34#34: gracefully shutting down
+2021/06/30 22:26:06 [notice] 32#32: exiting
+2021/06/30 22:26:06 [notice] 31#31: exiting
+2021/06/30 22:26:06 [notice] 35#35: exit
+2021/06/30 22:26:06 [notice] 37#37: exiting
+2021/06/30 22:26:06 [notice] 33#33: exiting
+2021/06/30 22:26:06 [notice] 33#33: exit
+2021/06/30 22:26:06 [notice] 36#36: exiting
+2021/06/30 22:26:06 [notice] 34#34: exiting
+2021/06/30 22:26:06 [notice] 32#32: exit
+2021/06/30 22:26:06 [notice] 38#38: gracefully shutting down
+2021/06/30 22:26:06 [notice] 31#31: exit
+2021/06/30 22:26:06 [notice] 37#37: exit
+2021/06/30 22:26:06 [notice] 36#36: exit
+2021/06/30 22:26:06 [notice] 34#34: exit
+2021/06/30 22:26:06 [notice] 38#38: exiting
+2021/06/30 22:26:06 [notice] 38#38: exit
+2021/06/30 22:26:06 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2021/06/30 22:26:06 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: worker process 38 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:26:06 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/06/30 22:26:06 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/06/30 22:26:06 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:26:06 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/06/30 22:26:06 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:26:06 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/06/30 22:26:06 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:26:06 [notice] 1#1: exit
+2021/06/30 22:26:17 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:26:17 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:26:17 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:26:17 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:26:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:26:17 [notice] 1#1: start worker processes
+2021/06/30 22:26:17 [notice] 1#1: start worker process 31
+2021/06/30 22:26:17 [notice] 1#1: start worker process 32
+2021/06/30 22:26:17 [notice] 1#1: start worker process 33
+2021/06/30 22:26:17 [notice] 1#1: start worker process 34
+2021/06/30 22:26:17 [notice] 1#1: start worker process 35
+2021/06/30 22:26:17 [notice] 1#1: start worker process 36
+2021/06/30 22:26:17 [notice] 1#1: start worker process 37
+2021/06/30 22:26:17 [notice] 1#1: start worker process 38
+2021/06/30 22:26:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:26:26 [notice] 31#31: gracefully shutting down
+2021/06/30 22:26:26 [notice] 32#32: gracefully shutting down
+2021/06/30 22:26:26 [notice] 33#33: gracefully shutting down
+2021/06/30 22:26:26 [notice] 34#34: gracefully shutting down
+2021/06/30 22:26:26 [notice] 35#35: gracefully shutting down
+2021/06/30 22:26:26 [notice] 36#36: gracefully shutting down
+2021/06/30 22:26:26 [notice] 36#36: exiting
+2021/06/30 22:26:26 [notice] 38#38: gracefully shutting down
+2021/06/30 22:26:26 [notice] 38#38: exiting
+2021/06/30 22:26:26 [notice] 37#37: gracefully shutting down
+2021/06/30 22:26:26 [notice] 31#31: exiting
+2021/06/30 22:26:26 [notice] 32#32: exiting
+2021/06/30 22:26:26 [notice] 33#33: exiting
+2021/06/30 22:26:26 [notice] 34#34: exiting
+2021/06/30 22:26:26 [notice] 35#35: exiting
+2021/06/30 22:26:26 [notice] 36#36: exit
+2021/06/30 22:26:26 [notice] 38#38: exit
+2021/06/30 22:26:26 [notice] 37#37: exiting
+2021/06/30 22:26:26 [notice] 37#37: exit
+2021/06/30 22:26:26 [notice] 31#31: exit
+2021/06/30 22:26:26 [notice] 32#32: exit
+2021/06/30 22:26:26 [notice] 33#33: exit
+2021/06/30 22:26:26 [notice] 34#34: exit
+2021/06/30 22:26:26 [notice] 35#35: exit
+2021/06/30 22:26:26 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2021/06/30 22:26:26 [notice] 1#1: worker process 38 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:26:26 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/06/30 22:26:26 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:26:26 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/06/30 22:26:26 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2021/06/30 22:26:26 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:26:26 [notice] 1#1: exit
+2021/06/30 22:27:36 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:27:36 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:27:36 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:27:36 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:27:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:27:36 [notice] 1#1: start worker processes
+2021/06/30 22:27:36 [notice] 1#1: start worker process 30
+2021/06/30 22:27:36 [notice] 1#1: start worker process 31
+2021/06/30 22:27:36 [notice] 1#1: start worker process 32
+2021/06/30 22:27:36 [notice] 1#1: start worker process 33
+2021/06/30 22:27:36 [notice] 1#1: start worker process 34
+2021/06/30 22:27:36 [notice] 1#1: start worker process 35
+2021/06/30 22:27:36 [notice] 1#1: start worker process 36
+2021/06/30 22:27:36 [notice] 1#1: start worker process 37
+2021/06/30 22:35:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:35:18 [notice] 30#30: gracefully shutting down
+2021/06/30 22:35:18 [notice] 31#31: gracefully shutting down
+2021/06/30 22:35:18 [notice] 32#32: gracefully shutting down
+2021/06/30 22:35:18 [notice] 33#33: gracefully shutting down
+2021/06/30 22:35:18 [notice] 33#33: exiting
+2021/06/30 22:35:18 [notice] 34#34: gracefully shutting down
+2021/06/30 22:35:18 [notice] 34#34: exiting
+2021/06/30 22:35:18 [notice] 35#35: gracefully shutting down
+2021/06/30 22:35:18 [notice] 35#35: exiting
+2021/06/30 22:35:18 [notice] 36#36: gracefully shutting down
+2021/06/30 22:35:18 [notice] 36#36: exiting
+2021/06/30 22:35:18 [notice] 37#37: gracefully shutting down
+2021/06/30 22:35:18 [notice] 37#37: exiting
+2021/06/30 22:35:18 [notice] 30#30: exiting
+2021/06/30 22:35:18 [notice] 31#31: exiting
+2021/06/30 22:35:18 [notice] 31#31: exit
+2021/06/30 22:35:18 [notice] 32#32: exiting
+2021/06/30 22:35:18 [notice] 33#33: exit
+2021/06/30 22:35:18 [notice] 34#34: exit
+2021/06/30 22:35:18 [notice] 35#35: exit
+2021/06/30 22:35:18 [notice] 36#36: exit
+2021/06/30 22:35:18 [notice] 37#37: exit
+2021/06/30 22:35:18 [notice] 30#30: exit
+2021/06/30 22:35:18 [notice] 32#32: exit
+2021/06/30 22:35:18 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2021/06/30 22:35:18 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: signal 29 (SIGIO) received
+2021/06/30 22:35:18 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/06/30 22:35:18 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2021/06/30 22:35:18 [notice] 1#1: worker process 30 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:35:18 [notice] 1#1: exit
+2021/06/30 22:35:28 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:35:28 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:35:28 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:35:28 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:35:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:35:28 [notice] 1#1: start worker processes
+2021/06/30 22:35:28 [notice] 1#1: start worker process 30
+2021/06/30 22:35:28 [notice] 1#1: start worker process 31
+2021/06/30 22:35:28 [notice] 1#1: start worker process 32
+2021/06/30 22:35:28 [notice] 1#1: start worker process 33
+2021/06/30 22:35:28 [notice] 1#1: start worker process 34
+2021/06/30 22:35:28 [notice] 1#1: start worker process 35
+2021/06/30 22:35:28 [notice] 1#1: start worker process 36
+2021/06/30 22:35:28 [notice] 1#1: start worker process 37
+2021/06/30 22:43:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:43:39 [notice] 31#31: gracefully shutting down
+2021/06/30 22:43:39 [notice] 30#30: gracefully shutting down
+2021/06/30 22:43:39 [notice] 32#32: gracefully shutting down
+2021/06/30 22:43:39 [notice] 34#34: gracefully shutting down
+2021/06/30 22:43:39 [notice] 33#33: gracefully shutting down
+2021/06/30 22:43:39 [notice] 36#36: gracefully shutting down
+2021/06/30 22:43:39 [notice] 37#37: gracefully shutting down
+2021/06/30 22:43:39 [notice] 35#35: gracefully shutting down
+2021/06/30 22:43:39 [notice] 31#31: exiting
+2021/06/30 22:43:39 [notice] 30#30: exiting
+2021/06/30 22:43:39 [notice] 32#32: exiting
+2021/06/30 22:43:39 [notice] 34#34: exiting
+2021/06/30 22:43:39 [notice] 33#33: exiting
+2021/06/30 22:43:39 [notice] 36#36: exiting
+2021/06/30 22:43:39 [notice] 37#37: exiting
+2021/06/30 22:43:39 [notice] 35#35: exiting
+2021/06/30 22:43:39 [notice] 31#31: exit
+2021/06/30 22:43:39 [notice] 30#30: exit
+2021/06/30 22:43:39 [notice] 32#32: exit
+2021/06/30 22:43:39 [notice] 34#34: exit
+2021/06/30 22:43:39 [notice] 33#33: exit
+2021/06/30 22:43:39 [notice] 36#36: exit
+2021/06/30 22:43:39 [notice] 37#37: exit
+2021/06/30 22:43:39 [notice] 35#35: exit
+2021/06/30 22:43:40 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/06/30 22:43:40 [notice] 1#1: worker process 30 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:43:40 [notice] 1#1: exit
+2021/06/30 22:44:16 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:44:16 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:44:16 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:44:16 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:44:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:44:16 [notice] 1#1: start worker processes
+2021/06/30 22:44:16 [notice] 1#1: start worker process 30
+2021/06/30 22:44:16 [notice] 1#1: start worker process 31
+2021/06/30 22:44:16 [notice] 1#1: start worker process 32
+2021/06/30 22:44:16 [notice] 1#1: start worker process 33
+2021/06/30 22:44:16 [notice] 1#1: start worker process 34
+2021/06/30 22:44:16 [notice] 1#1: start worker process 35
+2021/06/30 22:44:16 [notice] 1#1: start worker process 36
+2021/06/30 22:44:16 [notice] 1#1: start worker process 37
+2021/06/30 22:49:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/06/30 22:49:51 [notice] 30#30: gracefully shutting down
+2021/06/30 22:49:51 [notice] 31#31: gracefully shutting down
+2021/06/30 22:49:51 [notice] 31#31: exiting
+2021/06/30 22:49:51 [notice] 32#32: gracefully shutting down
+2021/06/30 22:49:51 [notice] 33#33: gracefully shutting down
+2021/06/30 22:49:51 [notice] 34#34: gracefully shutting down
+2021/06/30 22:49:51 [notice] 35#35: gracefully shutting down
+2021/06/30 22:49:51 [notice] 36#36: gracefully shutting down
+2021/06/30 22:49:51 [notice] 37#37: gracefully shutting down
+2021/06/30 22:49:51 [notice] 37#37: exiting
+2021/06/30 22:49:51 [notice] 30#30: exiting
+2021/06/30 22:49:51 [notice] 31#31: exit
+2021/06/30 22:49:51 [notice] 32#32: exiting
+2021/06/30 22:49:51 [notice] 33#33: exiting
+2021/06/30 22:49:51 [notice] 34#34: exiting
+2021/06/30 22:49:51 [notice] 35#35: exiting
+2021/06/30 22:49:51 [notice] 36#36: exiting
+2021/06/30 22:49:51 [notice] 36#36: exit
+2021/06/30 22:49:51 [notice] 37#37: exit
+2021/06/30 22:49:51 [notice] 30#30: exit
+2021/06/30 22:49:51 [notice] 32#32: exit
+2021/06/30 22:49:51 [notice] 33#33: exit
+2021/06/30 22:49:51 [notice] 34#34: exit
+2021/06/30 22:49:51 [notice] 35#35: exit
+2021/06/30 22:49:52 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2021/06/30 22:49:52 [notice] 1#1: worker process 30 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 31 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 32 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 33 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 34 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 35 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 36 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: worker process 37 exited with code 0
+2021/06/30 22:49:52 [notice] 1#1: exit
+2021/06/30 22:51:09 [notice] 1#1: using the "epoll" event method
+2021/06/30 22:51:09 [notice] 1#1: nginx/1.21.0
+2021/06/30 22:51:09 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/06/30 22:51:09 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/06/30 22:51:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/06/30 22:51:09 [notice] 1#1: start worker processes
+2021/06/30 22:51:09 [notice] 1#1: start worker process 30
+2021/06/30 22:51:09 [notice] 1#1: start worker process 31
+2021/06/30 22:51:09 [notice] 1#1: start worker process 32
+2021/06/30 22:51:09 [notice] 1#1: start worker process 33
+2021/06/30 22:51:09 [notice] 1#1: start worker process 34
+2021/06/30 22:51:09 [notice] 1#1: start worker process 35
+2021/06/30 22:51:09 [notice] 1#1: start worker process 36
+2021/06/30 22:51:09 [notice] 1#1: start worker process 37
+2021/06/30 22:59:05 [error] 30#30: *17 open() "/code/favicon.ico" failed (2: No such file or directory), client: 172.28.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/06/30 23:14:39 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:15:26 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /app/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:15:55 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /app/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:15:56 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /app/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:18:15 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:18:23 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:18:23 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:19:09 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:19:09 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:20:51 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:20:51 [error] 30#30: *28 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:27:49 [error] 30#30: *38 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:27:49 [error] 30#30: *38 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:27:52 [error] 30#30: *38 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:27:52 [error] 30#30: *38 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:46:44 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:47:15 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:47:20 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:48:52 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:48:52 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:49:20 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:49:23 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:50:12 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:50:14 [error] 30#30: *46 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:52:24 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:52:24 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:52:45 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:52:45 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:06 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:06 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:14 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:14 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:23 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:53:23 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:54:17 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:54:18 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:54:45 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:55:50 [error] 30#30: *64 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:55:50 [error] 30#30: *64 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:56:16 [error] 30#30: *64 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/06/30 23:56:17 [error] 30#30: *64 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 06:57:43 [error] 30#30: *68 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 06:57:50 [error] 30#30: *68 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 06:58:11 [error] 30#30: *68 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 06:58:13 [error] 30#30: *68 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 06:59:07 [error] 30#30: *68 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 06:59:07 [error] 30#30: *68 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 07:00:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/07/01 07:00:59 [notice] 30#30: gracefully shutting down
+2021/07/01 07:00:59 [notice] 31#31: gracefully shutting down
+2021/07/01 07:00:59 [notice] 32#32: gracefully shutting down
+2021/07/01 07:00:59 [notice] 31#31: exiting
+2021/07/01 07:00:59 [notice] 33#33: gracefully shutting down
+2021/07/01 07:00:59 [notice] 36#36: gracefully shutting down
+2021/07/01 07:00:59 [notice] 34#34: gracefully shutting down
+2021/07/01 07:00:59 [notice] 35#35: gracefully shutting down
+2021/07/01 07:00:59 [notice] 36#36: exiting
+2021/07/01 07:00:59 [notice] 37#37: gracefully shutting down
+2021/07/01 07:00:59 [notice] 35#35: exiting
+2021/07/01 07:00:59 [notice] 35#35: exit
+2021/07/01 07:00:59 [notice] 37#37: exiting
+2021/07/01 07:00:59 [notice] 30#30: exiting
+2021/07/01 07:00:59 [notice] 32#32: exiting
+2021/07/01 07:00:59 [notice] 31#31: exit
+2021/07/01 07:00:59 [notice] 33#33: exiting
+2021/07/01 07:00:59 [notice] 32#32: exit
+2021/07/01 07:00:59 [notice] 34#34: exiting
+2021/07/01 07:00:59 [notice] 33#33: exit
+2021/07/01 07:00:59 [notice] 34#34: exit
+2021/07/01 07:00:59 [notice] 36#36: exit
+2021/07/01 07:00:59 [notice] 37#37: exit
+2021/07/01 07:00:59 [notice] 30#30: exit
+2021/07/01 07:00:59 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/07/01 07:00:59 [notice] 1#1: worker process 31 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: worker process 35 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: worker process 36 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: worker process 37 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:00:59 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/07/01 07:00:59 [notice] 1#1: worker process 33 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:00:59 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2021/07/01 07:00:59 [notice] 1#1: worker process 30 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: worker process 34 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:00:59 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2021/07/01 07:00:59 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2021/07/01 07:00:59 [notice] 1#1: worker process 32 exited with code 0
+2021/07/01 07:00:59 [notice] 1#1: exit
+2021/07/01 07:01:08 [notice] 1#1: using the "epoll" event method
+2021/07/01 07:01:08 [notice] 1#1: nginx/1.21.0
+2021/07/01 07:01:08 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/01 07:01:08 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/01 07:01:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/01 07:01:08 [notice] 1#1: start worker processes
+2021/07/01 07:01:08 [notice] 1#1: start worker process 31
+2021/07/01 07:01:08 [notice] 1#1: start worker process 32
+2021/07/01 07:01:08 [notice] 1#1: start worker process 33
+2021/07/01 07:01:08 [notice] 1#1: start worker process 34
+2021/07/01 07:01:08 [notice] 1#1: start worker process 35
+2021/07/01 07:01:08 [notice] 1#1: start worker process 36
+2021/07/01 07:01:08 [notice] 1#1: start worker process 37
+2021/07/01 07:01:08 [notice] 1#1: start worker process 38
+2021/07/01 07:01:39 [error] 31#31: *1 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 07:01:40 [error] 31#31: *1 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 07:02:33 [error] 31#31: *1 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 07:02:33 [error] 31#31: *1 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.28.0.1, server: localhost, request: "GET /public/index.php HTTP/1.1", upstream: "fastcgi://172.28.0.2:9000", host: "localhost:8000"
+2021/07/01 07:33:10 [error] 31#31: *6 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:33:14 [error] 31#31: *6 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:33:15 [error] 31#31: *6 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:33:15 [error] 31#31: *6 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:33:15 [error] 31#31: *6 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:35:04 [error] 31#31: *9 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:08 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:08 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:09 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:09 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:09 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:09 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:10 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:10 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:10 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:10 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:38:10 [error] 31#31: *10 directory index of "/code/" is forbidden, client: 172.28.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/07/01 07:40:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/07/01 07:40:41 [notice] 31#31: gracefully shutting down
+2021/07/01 07:40:41 [notice] 34#34: gracefully shutting down
+2021/07/01 07:40:41 [notice] 38#38: gracefully shutting down
+2021/07/01 07:40:41 [notice] 38#38: exiting
+2021/07/01 07:40:41 [notice] 33#33: gracefully shutting down
+2021/07/01 07:40:41 [notice] 35#35: gracefully shutting down
+2021/07/01 07:40:41 [notice] 37#37: gracefully shutting down
+2021/07/01 07:40:41 [notice] 32#32: gracefully shutting down
+2021/07/01 07:40:41 [notice] 37#37: exiting
+2021/07/01 07:40:41 [notice] 32#32: exiting
+2021/07/01 07:40:41 [notice] 36#36: gracefully shutting down
+2021/07/01 07:40:41 [notice] 35#35: exiting
+2021/07/01 07:40:41 [notice] 31#31: exiting
+2021/07/01 07:40:41 [notice] 36#36: exiting
+2021/07/01 07:40:41 [notice] 34#34: exiting
+2021/07/01 07:40:41 [notice] 33#33: exiting
+2021/07/01 07:40:41 [notice] 38#38: exit
+2021/07/01 07:40:41 [notice] 32#32: exit
+2021/07/01 07:40:41 [notice] 37#37: exit
+2021/07/01 07:40:41 [notice] 35#35: exit
+2021/07/01 07:40:41 [notice] 31#31: exit
+2021/07/01 07:40:41 [notice] 36#36: exit
+2021/07/01 07:40:41 [notice] 34#34: exit
+2021/07/01 07:40:41 [notice] 33#33: exit
+2021/07/01 07:40:41 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/07/01 07:40:41 [notice] 1#1: worker process 31 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: worker process 32 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: worker process 34 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: worker process 37 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:40:41 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2021/07/01 07:40:41 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/07/01 07:40:41 [notice] 1#1: worker process 35 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:40:41 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/07/01 07:40:41 [notice] 1#1: worker process 33 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/01 07:40:41 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2021/07/01 07:40:41 [notice] 1#1: worker process 36 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: worker process 38 exited with code 0
+2021/07/01 07:40:41 [notice] 1#1: exit
+2021/07/01 07:40:49 [notice] 1#1: using the "epoll" event method
+2021/07/01 07:40:49 [notice] 1#1: nginx/1.21.0
+2021/07/01 07:40:49 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/01 07:40:49 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/01 07:40:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/01 07:40:49 [notice] 1#1: start worker processes
+2021/07/01 07:40:49 [notice] 1#1: start worker process 30
+2021/07/01 07:40:49 [notice] 1#1: start worker process 31
+2021/07/01 07:40:49 [notice] 1#1: start worker process 32
+2021/07/01 07:40:49 [notice] 1#1: start worker process 33
+2021/07/01 07:40:49 [notice] 1#1: start worker process 34
+2021/07/01 07:40:49 [notice] 1#1: start worker process 35
+2021/07/01 07:40:49 [notice] 1#1: start worker process 36
+2021/07/01 07:40:49 [notice] 1#1: start worker process 37
+2021/07/01 07:40:57 [error] 31#31: *2 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 07:47:12 [error] 30#30: *11 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 07:47:12 [error] 30#30: *11 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 07:47:24 [error] 30#30: *11 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 07:55:55 [error] 30#30: *15 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 07:58:49 [error] 31#31: *19 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 08:05:15 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 08:06:08 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 08:06:32 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 08:07:06 [error] 30#30: *21 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:18:45 [error] 30#30: *29 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:18:50 [error] 30#30: *29 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:18:55 [error] 30#30: *29 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:38 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:42 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:44 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:44 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:56 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:58 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:21:59 [error] 30#30: *34 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:26:25 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:26:31 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users?id=1 HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:26:52 [error] 30#30: *42 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:28:11 [error] 30#30: *47 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:32:49 [error] 30#30: *50 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:33:14 [error] 30#30: *50 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:34:27 [error] 30#30: *54 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:36:31 [error] 30#30: *57 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /users HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:36:34 [error] 30#30: *57 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:36:43 [error] 30#30: *57 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:37:52 [error] 30#30: *63 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /composer.json HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:43:16 [error] 31#31: *65 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:43:17 [error] 31#31: *65 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 09:43:25 [error] 31#31: *65 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:34:24 [error] 31#31: *70 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:34:30 [error] 31#31: *70 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:36:04 [error] 30#30: *75 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:38:04 [error] 31#31: *77 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:40:31 [error] 30#30: *80 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 12:40:44 [error] 30#30: *80 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/01 22:22:44 [error] 31#31: *85 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:31:57 [error] 30#30: *87 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:31:58 [error] 30#30: *87 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:36:34 [error] 30#30: *91 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:39:21 [error] 30#30: *94 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:39:32 [error] 30#30: *94 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/01 22:39:33 [error] 30#30: *94 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 22:46:53 [error] 30#30: *99 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 22:47:03 [error] 30#30: *99 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /sqdqs HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:52:06 [error] 30#30: *104 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:54:46 [error] 30#30: *107 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:57:39 [error] 30#30: *109 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:57:41 [error] 30#30: *109 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contactd HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:59:01 [error] 30#30: *113 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contactd HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:59:03 [error] 30#30: *113 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contactd HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 22:59:17 [error] 30#30: *113 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contactd HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:00:32 [error] 30#30: *113 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contactd HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:01:40 [error] 30#30: *121 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:01:43 [error] 30#30: *121 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 23:12:15 [error] 30#30: *126 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 23:12:54 [error] 30#30: *126 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 23:14:10 [error] 30#30: *129 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/01 23:14:12 [error] 30#30: *129 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:14:44 [error] 30#30: *129 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:18:52 [error] 30#30: *135 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:18:59 [error] 30#30: *135 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:20:27 [error] 30#30: *138 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:27:31 [error] 30#30: *150 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/01 23:27:50 [error] 30#30: *150 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:19:07 [error] 31#31: *155 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:22:12 [error] 30#30: *157 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:22:18 [error] 30#30: *157 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:28:29 [error] 31#31: *162 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:28:37 [error] 31#31: *162 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:28:40 [error] 31#31: *162 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:29:02 [error] 31#31: *162 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:31:26 [error] 30#30: *167 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/02 22:41:57 [error] 30#30: *171 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:42:06 [error] 30#30: *171 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:43:25 [error] 30#30: *174 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:45:52 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:46:22 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:46:23 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:46:25 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:46:27 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/02 22:47:04 [error] 30#30: *177 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/02 22:52:09 [error] 30#30: *186 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/02 22:53:03 [error] 30#30: *186 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:11:16 [error] 30#30: *191 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:11:21 [error] 30#30: *191 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/03 22:11:25 [error] 30#30: *191 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/03 22:16:15 [error] 30#30: *195 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/03 22:28:59 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/03 22:29:03 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:29:58 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:30:02 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:30:14 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/03 22:30:17 [error] 30#30: *198 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:51:35 [error] 30#30: *207 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:51:54 [error] 30#30: *207 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:53:05 [error] 30#30: *211 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:53:32 [error] 30#30: *211 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:56:15 [error] 30#30: *216 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:56:46 [error] 30#30: *216 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 22:56:53 [error] 30#30: *216 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/03 22:56:57 [error] 30#30: *216 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 23:00:36 [error] 31#31: *222 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/03 23:01:48 [error] 31#31: *222 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:31:23 [error] 30#30: *228 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 04:47:20 [error] 30#30: *231 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 04:47:27 [error] 30#30: *231 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:50:50 [error] 30#30: *234 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:54:53 [error] 30#30: *238 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:55:50 [error] 30#30: *238 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:57:05 [error] 30#30: *241 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 04:58:04 [error] 30#30: *241 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:00:59 [error] 30#30: *246 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:02:50 [error] 30#30: *248 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:03:05 [error] 30#30: *248 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:03:16 [error] 30#30: *248 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:03:28 [error] 30#30: *248 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:05:19 [error] 31#31: *254 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:05:22 [error] 31#31: *254 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 05:05:30 [error] 31#31: *254 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 05:05:50 [error] 31#31: *254 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 07:42:04 [error] 30#30: *261 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 07:42:55 [error] 30#30: *261 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 11:20:06 [error] 30#30: *267 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:11:44 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:11:45 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:11:46 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /contact HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:11:46 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/05 22:11:49 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/05 22:11:50 [error] 30#30: *271 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:12:30 [error] 30#30: *279 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:12:33 [error] 30#30: *279 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:15:27 [error] 30#30: *279 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:16:59 [error] 30#30: *279 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:20:22 [error] 30#30: *291 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/05 22:20:28 [error] 30#30: *291 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:20:37 [error] 30#30: *291 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:22:21 [error] 30#30: *299 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:25:01 [error] 30#30: *299 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:27:08 [error] 30#30: *308 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:28:55 [error] 31#31: *311 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:29:00 [error] 31#31: *311 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:30:29 [error] 31#31: *316 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/contact"
+2021/07/05 22:30:29 [error] 31#31: *316 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:30:56 [error] 30#30: *319 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:31:27 [error] 30#30: *319 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:35:19 [error] 30#30: *323 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:35:22 [error] 30#30: *323 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:35:26 [error] 30#30: *323 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:35:31 [error] 30#30: *323 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:35:35 [error] 30#30: *323 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "POST /register HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000", referrer: "http://localhost:8000/register"
+2021/07/05 22:54:55 [error] 30#30: *330 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:55:25 [error] 30#30: *330 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:56:46 [error] 30#30: *334 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:58:20 [error] 30#30: *338 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 22:59:44 [error] 30#30: *341 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 23:00:36 [error] 30#30: *341 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 23:00:40 [error] 30#30: *341 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/05 23:00:59 [error] 30#30: *341 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.2:9000", host: "localhost:8000"
+2021/07/07 21:00:03 [notice] 1#1: using the "epoll" event method
+2021/07/07 21:00:03 [notice] 1#1: nginx/1.21.0
+2021/07/07 21:00:03 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/07 21:00:03 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/07 21:00:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/07 21:00:03 [notice] 1#1: start worker processes
+2021/07/07 21:00:03 [notice] 1#1: start worker process 31
+2021/07/07 21:00:03 [notice] 1#1: start worker process 32
+2021/07/07 21:00:03 [notice] 1#1: start worker process 33
+2021/07/07 21:00:03 [notice] 1#1: start worker process 34
+2021/07/07 21:00:03 [notice] 1#1: start worker process 35
+2021/07/07 21:00:03 [notice] 1#1: start worker process 36
+2021/07/07 21:00:03 [notice] 1#1: start worker process 37
+2021/07/07 21:00:03 [notice] 1#1: start worker process 38
+2021/07/10 05:52:31 [notice] 1#1: using the "epoll" event method
+2021/07/10 05:52:31 [notice] 1#1: nginx/1.21.0
+2021/07/10 05:52:31 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/10 05:52:31 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/10 05:52:31 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/10 05:52:31 [notice] 1#1: start worker processes
+2021/07/10 05:52:31 [notice] 1#1: start worker process 31
+2021/07/10 05:52:31 [notice] 1#1: start worker process 32
+2021/07/10 05:52:31 [notice] 1#1: start worker process 33
+2021/07/10 05:52:31 [notice] 1#1: start worker process 34
+2021/07/10 05:52:31 [notice] 1#1: start worker process 35
+2021/07/10 05:52:31 [notice] 1#1: start worker process 36
+2021/07/10 05:52:31 [notice] 1#1: start worker process 37
+2021/07/10 05:52:31 [notice] 1#1: start worker process 38
+2021/07/10 06:00:06 [error] 32#32: *1 FastCGI sent in stderr: "PHP message: Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(" while reading response header from upstream, client: 172.30.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.30.0.4:9000", host: "localhost:8000"
+2021/07/10 06:27:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/07/10 06:27:52 [notice] 38#38: gracefully shutting down
+2021/07/10 06:27:52 [notice] 37#37: gracefully shutting down
+2021/07/10 06:27:52 [notice] 35#35: gracefully shutting down
+2021/07/10 06:27:52 [notice] 36#36: gracefully shutting down
+2021/07/10 06:27:52 [notice] 31#31: gracefully shutting down
+2021/07/10 06:27:52 [notice] 32#32: gracefully shutting down
+2021/07/10 06:27:52 [notice] 33#33: gracefully shutting down
+2021/07/10 06:27:52 [notice] 36#36: exiting
+2021/07/10 06:27:52 [notice] 38#38: exiting
+2021/07/10 06:27:52 [notice] 36#36: exit
+2021/07/10 06:27:52 [notice] 37#37: exiting
+2021/07/10 06:27:52 [notice] 35#35: exiting
+2021/07/10 06:27:52 [notice] 37#37: exit
+2021/07/10 06:27:52 [notice] 31#31: exiting
+2021/07/10 06:27:52 [notice] 32#32: exiting
+2021/07/10 06:27:52 [notice] 31#31: exit
+2021/07/10 06:27:52 [notice] 33#33: exiting
+2021/07/10 06:27:52 [notice] 34#34: gracefully shutting down
+2021/07/10 06:27:52 [notice] 38#38: exit
+2021/07/10 06:27:52 [notice] 35#35: exit
+2021/07/10 06:27:52 [notice] 32#32: exit
+2021/07/10 06:27:52 [notice] 33#33: exit
+2021/07/10 06:27:52 [notice] 34#34: exiting
+2021/07/10 06:27:52 [notice] 34#34: exit
+2021/07/10 06:27:52 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/07/10 06:27:52 [notice] 1#1: worker process 36 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 06:27:52 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2021/07/10 06:27:52 [notice] 1#1: worker process 31 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: worker process 34 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: worker process 37 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: worker process 38 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 06:27:52 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/07/10 06:27:52 [notice] 1#1: worker process 32 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: worker process 33 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 06:27:52 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/07/10 06:27:52 [notice] 1#1: worker process 35 exited with code 0
+2021/07/10 06:27:52 [notice] 1#1: exit
+2021/07/10 06:28:17 [notice] 1#1: using the "epoll" event method
+2021/07/10 06:28:17 [notice] 1#1: nginx/1.21.0
+2021/07/10 06:28:17 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/10 06:28:17 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/10 06:28:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/10 06:28:17 [notice] 1#1: start worker processes
+2021/07/10 06:28:17 [notice] 1#1: start worker process 31
+2021/07/10 06:28:17 [notice] 1#1: start worker process 32
+2021/07/10 06:28:17 [notice] 1#1: start worker process 33
+2021/07/10 06:28:17 [notice] 1#1: start worker process 34
+2021/07/10 06:28:17 [notice] 1#1: start worker process 35
+2021/07/10 06:28:17 [notice] 1#1: start worker process 36
+2021/07/10 06:28:17 [notice] 1#1: start worker process 37
+2021/07/10 06:28:17 [notice] 1#1: start worker process 38
+2021/07/10 07:02:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2021/07/10 07:02:20 [notice] 31#31: gracefully shutting down
+2021/07/10 07:02:20 [notice] 32#32: gracefully shutting down
+2021/07/10 07:02:20 [notice] 36#36: gracefully shutting down
+2021/07/10 07:02:20 [notice] 34#34: gracefully shutting down
+2021/07/10 07:02:20 [notice] 33#33: gracefully shutting down
+2021/07/10 07:02:20 [notice] 37#37: gracefully shutting down
+2021/07/10 07:02:20 [notice] 38#38: gracefully shutting down
+2021/07/10 07:02:20 [notice] 31#31: exiting
+2021/07/10 07:02:20 [notice] 35#35: gracefully shutting down
+2021/07/10 07:02:20 [notice] 34#34: exiting
+2021/07/10 07:02:20 [notice] 32#32: exiting
+2021/07/10 07:02:20 [notice] 37#37: exiting
+2021/07/10 07:02:20 [notice] 32#32: exit
+2021/07/10 07:02:20 [notice] 37#37: exit
+2021/07/10 07:02:20 [notice] 36#36: exiting
+2021/07/10 07:02:20 [notice] 33#33: exiting
+2021/07/10 07:02:20 [notice] 31#31: exit
+2021/07/10 07:02:20 [notice] 34#34: exit
+2021/07/10 07:02:20 [notice] 38#38: exiting
+2021/07/10 07:02:20 [notice] 35#35: exiting
+2021/07/10 07:02:20 [notice] 36#36: exit
+2021/07/10 07:02:20 [notice] 33#33: exit
+2021/07/10 07:02:20 [notice] 38#38: exit
+2021/07/10 07:02:20 [notice] 35#35: exit
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 31
+2021/07/10 07:02:20 [notice] 1#1: worker process 31 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: worker process 35 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 35
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 32
+2021/07/10 07:02:20 [notice] 1#1: worker process 32 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: worker process 38 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 38
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 33
+2021/07/10 07:02:20 [notice] 1#1: worker process 33 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 36
+2021/07/10 07:02:20 [notice] 1#1: worker process 36 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 37
+2021/07/10 07:02:20 [notice] 1#1: worker process 37 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: signal 29 (SIGIO) received
+2021/07/10 07:02:20 [notice] 1#1: signal 17 (SIGCHLD) received from 34
+2021/07/10 07:02:20 [notice] 1#1: worker process 34 exited with code 0
+2021/07/10 07:02:20 [notice] 1#1: exit
+2021/07/10 07:02:32 [notice] 1#1: using the "epoll" event method
+2021/07/10 07:02:32 [notice] 1#1: nginx/1.21.0
+2021/07/10 07:02:32 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/10 07:02:32 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/10 07:02:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/10 07:02:32 [notice] 1#1: start worker processes
+2021/07/10 07:02:32 [notice] 1#1: start worker process 30
+2021/07/10 07:02:32 [notice] 1#1: start worker process 31
+2021/07/10 07:02:32 [notice] 1#1: start worker process 32
+2021/07/10 07:02:32 [notice] 1#1: start worker process 33
+2021/07/10 07:02:32 [notice] 1#1: start worker process 34
+2021/07/10 07:02:32 [notice] 1#1: start worker process 35
+2021/07/10 07:02:32 [notice] 1#1: start worker process 36
+2021/07/10 07:02:32 [notice] 1#1: start worker process 37
+2021/07/13 21:09:48 [notice] 1#1: using the "epoll" event method
+2021/07/13 21:09:48 [notice] 1#1: nginx/1.21.0
+2021/07/13 21:09:48 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/13 21:09:48 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/13 21:09:48 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/13 21:09:48 [notice] 1#1: start worker processes
+2021/07/13 21:09:48 [notice] 1#1: start worker process 30
+2021/07/13 21:09:48 [notice] 1#1: start worker process 31
+2021/07/13 21:09:48 [notice] 1#1: start worker process 32
+2021/07/13 21:09:48 [notice] 1#1: start worker process 33
+2021/07/13 21:09:48 [notice] 1#1: start worker process 34
+2021/07/13 21:09:48 [notice] 1#1: start worker process 35
+2021/07/13 21:09:48 [notice] 1#1: start worker process 36
+2021/07/13 21:09:48 [notice] 1#1: start worker process 37
+2021/07/13 22:24:17 [error] 30#30: *104 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.23.0.1, server: localhost, request: "GET /login HTTP/1.1", upstream: "fastcgi://172.23.0.5:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/13 22:30:01 [error] 30#30: *120 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.23.0.1, server: localhost, request: "POST /login HTTP/1.1", upstream: "fastcgi://172.23.0.5:9000", host: "localhost:8000", referrer: "http://localhost:8000/login"
+2021/07/13 22:31:01 [error] 30#30: *120 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.5:9000", host: "localhost:8000", referrer: "http://localhost:8000/login"
+2021/07/14 06:23:05 [notice] 1#1: using the "epoll" event method
+2021/07/14 06:23:05 [notice] 1#1: nginx/1.21.0
+2021/07/14 06:23:05 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/14 06:23:05 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/14 06:23:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/14 06:23:05 [notice] 1#1: start worker processes
+2021/07/14 06:23:05 [notice] 1#1: start worker process 30
+2021/07/14 06:23:05 [notice] 1#1: start worker process 31
+2021/07/14 06:23:05 [notice] 1#1: start worker process 32
+2021/07/14 06:23:05 [notice] 1#1: start worker process 33
+2021/07/14 06:23:05 [notice] 1#1: start worker process 34
+2021/07/14 06:23:05 [notice] 1#1: start worker process 35
+2021/07/14 06:23:05 [notice] 1#1: start worker process 36
+2021/07/14 06:23:05 [notice] 1#1: start worker process 37
+2021/07/14 06:23:05 [error] 30#30: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.23.0.4:9000", host: "localhost:8000"
+2021/07/14 06:23:05 [error] 30#30: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.23.0.4:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/07/14 06:26:40 [error] 30#30: *1 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.23.0.1, server: localhost, request: "POST /login HTTP/1.1", upstream: "fastcgi://172.23.0.4:9000", host: "localhost:8000", referrer: "http://localhost:8000/login"
+2021/07/14 06:29:50 [error] 30#30: *1 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.23.0.1, server: localhost, request: "POST /login HTTP/1.1", upstream: "fastcgi://172.23.0.4:9000", host: "localhost:8000", referrer: "http://localhost:8000/login"
+2021/07/15 06:06:29 [notice] 1#1: using the "epoll" event method
+2021/07/15 06:06:29 [notice] 1#1: nginx/1.21.0
+2021/07/15 06:06:29 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/15 06:06:29 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/15 06:06:29 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/15 06:06:29 [notice] 1#1: start worker processes
+2021/07/15 06:06:29 [notice] 1#1: start worker process 31
+2021/07/15 06:06:29 [notice] 1#1: start worker process 32
+2021/07/15 06:06:29 [notice] 1#1: start worker process 33
+2021/07/15 06:06:29 [notice] 1#1: start worker process 34
+2021/07/15 06:06:29 [notice] 1#1: start worker process 35
+2021/07/15 06:06:29 [notice] 1#1: start worker process 36
+2021/07/15 06:06:29 [notice] 1#1: start worker process 37
+2021/07/15 06:06:29 [notice] 1#1: start worker process 38
+2021/07/16 20:16:05 [notice] 1#1: using the "epoll" event method
+2021/07/16 20:16:05 [notice] 1#1: nginx/1.21.0
+2021/07/16 20:16:05 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/07/16 20:16:05 [notice] 1#1: OS: Linux 5.4.72-microsoft-standard-WSL2
+2021/07/16 20:16:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/07/16 20:16:05 [notice] 1#1: start worker processes
+2021/07/16 20:16:05 [notice] 1#1: start worker process 30
+2021/07/16 20:16:05 [notice] 1#1: start worker process 31
+2021/07/16 20:16:05 [notice] 1#1: start worker process 32
+2021/07/16 20:16:05 [notice] 1#1: start worker process 33
+2021/07/16 20:16:05 [notice] 1#1: start worker process 34
+2021/07/16 20:16:05 [notice] 1#1: start worker process 35
+2021/07/16 20:16:05 [notice] 1#1: start worker process 36
+2021/07/16 20:16:05 [notice] 1#1: start worker process 37
